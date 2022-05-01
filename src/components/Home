@@ -1,0 +1,9 @@
+import {Grid, GridItem} from '@chakra-ui/react'
+
+function Home(){
+    return (
+    <h1>hi</h1>
+    )
+}
+
+export default Home;
